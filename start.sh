@@ -1,6 +1,4 @@
-#自动配置脚本
-git clone https://github.com/dragonstrong/clash
-cd clash
+#自动配置脚本，先git clash文件夹,然后运行start.sh脚本
 sudo chmod a+x clash
 sudo ./clash -d .
 #export http_proxy=http://127.0.0.1:7890
