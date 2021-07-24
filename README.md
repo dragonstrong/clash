@@ -5,6 +5,7 @@
 2、所需文件
 **特别说明：config.yaml从fastlink上购买下载，下载下来重命名config.yaml，每个人不一样**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e13fb95b7e11475ab17e4f65b405a8a3.PNG#pic_center)
+
 下载链接：[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash)
 
 下载后进入clash文件夹下打开终端
