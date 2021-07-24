@@ -1,5 +1,6 @@
 ## ubuntu下clash
 1、搭配fastlink
+
 [https://fastlink.ws/user/tutorial?os=linux&client=clash##](https://fastlink.ws/user/tutorial?os=linux&client=clash##)
 
 2、所需文件
