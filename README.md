@@ -1,4 +1,6 @@
 ## ubuntu下clash
+
+**脚本：[https://github.com/dragonstrong/clash/blob/main/start.sh](https://github.com/dragonstrong/clash/blob/main/start.sh)**
 1、搭配fastlink
 
 [https://fastlink.ws/user/tutorial?os=linux&client=clash##](https://fastlink.ws/user/tutorial?os=linux&client=clash##)
