@@ -4,7 +4,7 @@
 
 1、搭配fastlink
 
-邀请码：[https://fastlink.ws/auth/register?code=r9NY](https://fastlink.ws/auth/register?code=r9NY)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
+注册链接：[https://fastlink.ws/auth/register?code=r9NY](https://fastlink.ws/auth/register?code=r9NY)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
 
 
 2、所需文件
