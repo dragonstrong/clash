@@ -4,9 +4,8 @@
 
 1、搭配fastlink
 
-[https://fastlink.ws/user/tutorial?os=linux&client=clash##](https://fastlink.ws/user/tutorial?os=linux&client=clash##)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
+邀请码：https://fastlink.ws/auth/register?code=r9NY(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
 
-邀请码：https://fastlink.ws/auth/register?code=r9NY
 
 2、所需文件
 
