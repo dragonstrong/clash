@@ -6,6 +6,8 @@
 
 [https://fastlink.ws/user/tutorial?os=linux&client=clash##](https://fastlink.ws/user/tutorial?os=linux&client=clash##)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
 
+邀请码：https://fastlink.ws/auth/register?code=r9NY
+
 2、所需文件
 
 **特别说明：config.yaml从fastlink上下载，下载后重命名为config.yaml，另外两个文件是通用的**
