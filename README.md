@@ -1,13 +1,13 @@
-## ubuntu下clash
+# ubuntu下clash
 
 **一键配置脚本：[https://github.com/dragonstrong/clash/blob/main/start.sh](https://github.com/dragonstrong/clash/blob/main/start.sh)，先解压config.yaml再运行**
 
-1、搭配fastlink
+## 1、搭配fastlink
 
 注册链接：[https://fastlink.ws/auth/register?code=r9NY](https://fastlink.ws/auth/register?code=r9NY)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
 
 
-2、所需文件
+## 2、所需文件
 
 **特别说明：config.yaml从fastlink上下载，下载后重命名为config.yaml，另外两个文件是通用的**
 
@@ -20,7 +20,7 @@
 
 下载后进入clash文件夹下打开终端
 
-3、执行命令
+## 3、执行命令
 
 ```
 sudo chmod a+x clash 
@@ -29,7 +29,7 @@ sudo ./clash -d .
 成功运行如下所示
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2c7dd821c5bd4d92bfbaac4c2bc81f04.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
-4、配置proxy
+## 4、配置proxy
 
 ```
 export http_proxy=http://127.0.0.1:7890
@@ -41,11 +41,11 @@ export socks_proxy=socks://127.0.0.1:7891
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/6c4dba4fbf824b0bab17ef2187de0c5d.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
-5、浏览器proxy设置使用系统代理
+## 5、浏览器proxy设置使用系统代理
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b4c76bc2e0fb44f49074e750c2548ad6.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
-6、终端测试
+## 6、终端测试
 
 ```
 wget google.com
