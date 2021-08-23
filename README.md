@@ -1,6 +1,6 @@
 # ubuntu下clash
 
-**一键配置脚本：[https://github.com/dragonstrong/clash/blob/main/start.sh](https://github.com/dragonstrong/clash/blob/main/start.sh)，先解压config.yaml再运行**
+**一键配置脚本：[https://github.com/dragonstrong/clash/blob/main/start.sh](https://github.com/dragonstrong/clash/blob/main/start.sh)，先解压config.rar到同一文件夹下再运行**
 
 ## 1、搭配fastlink
 
