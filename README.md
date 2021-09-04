@@ -57,7 +57,7 @@ wget google.com
 
 ![image](https://user-images.githubusercontent.com/32926995/132078585-06b55146-3f48-47e3-be19-9ac6491d3a5a.png)
 
-输入以下命令：
+输入以下命令cmd即可走代理：
 
 ```
 set http_proxy=socks5://127.0.0.1:10808
