@@ -60,7 +60,7 @@ wget google.com
 输入以下命令：
 
 ```
-set http_proxy=socks5://127.0.0.1:108089
-set https_proxy=socks5://127.0.0.1:108089
+set http_proxy=socks5://127.0.0.1:10808
+set https_proxy=socks5://127.0.0.1:10808
 ```
 
