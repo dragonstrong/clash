@@ -54,7 +54,9 @@ wget google.com
 
 # windows cmd下代理
 开启v2-ray,找到所选服务器的settings中的端口
+
 ![image](https://user-images.githubusercontent.com/32926995/132078585-06b55146-3f48-47e3-be19-9ac6491d3a5a.png)
+
 输入以下命令：
 、、、
 set http_proxy=socks5://127.0.0.1:108089
