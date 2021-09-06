@@ -84,4 +84,5 @@ advaced options里proxy选择手动(manual),hostname填开热点那台点脑的i
 
 #  oculus quest2 头显科学上网的方式同手机连电脑热点
 一加载应用商店就断网，也是服了这个系统
+
 链接：[https://zhuanlan.zhihu.com/p/337430556](https://zhuanlan.zhihu.com/p/337430556)
