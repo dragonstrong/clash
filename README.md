@@ -79,4 +79,5 @@ set https_proxy=
 
 
 2、手机端连wifi时选择add network,手动添加配置proxy
+
 advaced options里proxy选择手动(manual),hostname填开热点那台点脑的ip，port填7890(即电脑端clash里general显示的port，见上上图)
