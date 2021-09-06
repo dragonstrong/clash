@@ -82,7 +82,7 @@ set https_proxy=
 
 advaced options里proxy选择手动(manual),hostname填开热点那台点脑的ip，port填7890(即电脑端clash里general显示的port，见上上图)
 
-#  oculus quest2 头显科学上网的方式同电脑开热点
+#  oculus quest2 头显科学上网的方式同手机连电脑热点
 
 成功了一次，后面总抽风，可能是oculus系统的问题，服了
 
