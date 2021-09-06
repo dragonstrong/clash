@@ -84,4 +84,4 @@ advaced options里proxy选择手动(manual),hostname填开热点那台点脑的i
 
 #  oculus quest2 头显科学上网的方式同电脑开热点
 
-链接：[https://zhuanlan.zhihu.com/p/337430556].(https://zhuanlan.zhihu.com/p/337430556)
+链接：[https://zhuanlan.zhihu.com/p/337430556](https://zhuanlan.zhihu.com/p/337430556)
