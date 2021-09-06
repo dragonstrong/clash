@@ -71,3 +71,12 @@ set http_proxy=
 set https_proxy=
 ```
 
+# 电脑配置clash开热点给别人科学上网
+1、首先确保电脑端的clash开了system proxy和Allow LAN, proxies 选择global，再确认一下电脑端能否访问外网
+
+![image](https://user-images.githubusercontent.com/32926995/132190932-75612b45-f354-4053-85fc-797baff58588.png)
+![image](https://user-images.githubusercontent.com/32926995/132191240-975b2d57-17da-42d5-8720-ece7dccd2539.png)
+
+
+2、手机端连wifi时选择add network,手动添加配置proxy
+advaced options里proxy选择手动(manual),hostname填开热点那台点脑的ip，port填7890(即电脑端clash里general显示的port，见上上图)
