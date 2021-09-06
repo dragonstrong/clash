@@ -1,4 +1,4 @@
-# ubuntu下clash
+# I. ubuntu下clash
 
 **一键配置脚本：[https://github.com/dragonstrong/clash/blob/main/start.sh](https://github.com/dragonstrong/clash/blob/main/start.sh)，先解压config.rar到同一文件夹下再运行**
 
@@ -52,7 +52,7 @@ wget google.com
 ```
 有返回保存index.html则成功
 
-# windows cmd下代理
+# II. windows cmd下代理
 开启v2-ray,找到所选服务器的settings中的端口
 
 ![image](https://user-images.githubusercontent.com/32926995/132078585-06b55146-3f48-47e3-be19-9ac6491d3a5a.png)
@@ -71,7 +71,7 @@ set http_proxy=
 set https_proxy=
 ```
 
-# 电脑配置clash开热点给别人科学上网
+# III. 电脑配置clash开热点给别人科学上网
 1、首先确保电脑端的clash开了system proxy和Allow LAN, proxies 选择global，再确认一下电脑端能否访问外网
 
 ![image](https://user-images.githubusercontent.com/32926995/132190932-75612b45-f354-4053-85fc-797baff58588.png)
@@ -81,3 +81,5 @@ set https_proxy=
 2、手机端连wifi时选择add network,手动添加配置proxy
 
 advaced options里proxy选择手动(manual),hostname填开热点那台点脑的ip，port填7890(即电脑端clash里general显示的port，见上上图)
+
+# IV. oculus quest2 头显科学上网的方式同III
