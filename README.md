@@ -84,4 +84,6 @@ advaced options里proxy选择手动(manual),hostname填开热点那台点脑的i
 
 #  oculus quest2 头显科学上网的方式同电脑开热点
 
+成功了一次，后面总抽风，可能是oculus系统的问题，服了
+
 链接：[https://zhuanlan.zhihu.com/p/337430556](https://zhuanlan.zhihu.com/p/337430556)
