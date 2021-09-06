@@ -86,8 +86,6 @@ advaced options里proxy选择手动(manual),hostname填开热点那台点脑的i
 
 1、法一：头显装clash 安卓版，记得setting->override->mode->golbal 
 
-2、法二：头显连接配置了科学上网的热点
-
-这种方法一加载应用商店就断网，也是服了这个系统
+2、法二：头显连接配置了科学上网的热点，这种方法一加载应用商店就断网，也是服了这个系统
 
 链接：[https://zhuanlan.zhihu.com/p/337430556](https://zhuanlan.zhihu.com/p/337430556)
