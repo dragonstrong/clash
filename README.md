@@ -57,6 +57,16 @@ wget google.com
 
 ![image](https://user-images.githubusercontent.com/32926995/142195924-97ce39d5-60d3-44dc-9b61-cd38ab6a90ae.png)
 
+或者输入命令
+```
+set http_proxy=http://127.0.0.1:7890 & set https_proxy=http://127.0.0.1:7890
+```
+测试访问google
+
+```
+curl www.google.com
+```
+
 法2、开启v2-ray,找到所选服务器的settings中的端口
 
 ![image](https://user-images.githubusercontent.com/32926995/132078585-06b55146-3f48-47e3-be19-9ac6491d3a5a.png)
