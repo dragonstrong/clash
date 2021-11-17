@@ -53,11 +53,11 @@ wget google.com
 有返回保存index.html则成功
 
 # windows cmd下代理
-1、直接从clash控制台打开
+法1、直接从clash控制台打开
 
 ![image](https://user-images.githubusercontent.com/32926995/142195924-97ce39d5-60d3-44dc-9b61-cd38ab6a90ae.png)
 
-2、开启v2-ray,找到所选服务器的settings中的端口
+法2、开启v2-ray,找到所选服务器的settings中的端口
 
 ![image](https://user-images.githubusercontent.com/32926995/132078585-06b55146-3f48-47e3-be19-9ac6491d3a5a.png)
 
