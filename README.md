@@ -57,7 +57,7 @@ wget google.com
 
 ![image](https://user-images.githubusercontent.com/32926995/142195924-97ce39d5-60d3-44dc-9b61-cd38ab6a90ae.png)
 
-或者输入命令（win好像不像ubuntu，在一个cmd下配的进当前窗口有效，新开一个cmd没用）
+或者输入命令（win好不像ubuntu，在一个cmd下配的仅当前窗口有效，新开一个cmd没用）
 ```
 set http_proxy=http://127.0.0.1:7890 & set https_proxy=http://127.0.0.1:7890
 ```
