@@ -1,7 +1,7 @@
 # 目录
 - [ubuntu下clash](#ubuntu下clash)
 - [windows cmd下代理](#windows cmd下代理)
-- [ 电脑配置clash开热点给别人科学上网](# 电脑配置clash开热点给别人科学上网)
+- [ 电脑配置clash开热点给别人科学上网](#电脑配置clash开热点给别人科学上网)
 - [oculus quest2 头显科学上网](#oculus quest2 头显科学上网)
 
 
