@@ -3,7 +3,7 @@
 
 - [windows cmd下代理](#windows cmd下代理)
 
-- [ 电脑配置clash开热点给别人科学上网](#电脑配置clash开热点给别人科学上网)
+- [ clash开热点给其他设备科学上网](#clash开热点给其他设备科学上网)
 
 - [oculus quest2 头显科学上网](#oculus quest2 头显科学上网)
 
@@ -95,7 +95,7 @@ set http_proxy=
 set https_proxy=
 ```
 
-#  电脑配置clash开热点给别人科学上网
+#  clash开热点给其他设备科学上网
 1、首先确保电脑端的clash开了system proxy和Allow LAN, proxies 选择global，再确认一下电脑端能否访问外网
 
 ![image](https://user-images.githubusercontent.com/32926995/132190932-75612b45-f354-4053-85fc-797baff58588.png)
