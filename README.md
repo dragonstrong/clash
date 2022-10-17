@@ -14,7 +14,7 @@
 
 ## 1、搭配fastlink
 
-注册链接：[https://fastlink.ws/auth/register?code=r9NY](https://fastlink.ws/auth/register?code=r9NY)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
+注册链接：[fastlink](https://fastlink.ws/auth/register?code=r9NY)(189元/年  ，单买19元/月，100G/月，速度和稳定性都很可以)
 
 
 ## 2、所需文件
@@ -26,7 +26,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0eba68be81354afcb5ef1bdccf762efb.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 
-下载链接：[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash)
+下载链接：[clash](https://github.com/dragonstrong/clash)
 
 下载后进入clash文件夹下打开终端
 
