@@ -1,11 +1,16 @@
-# 目录
-- [ubuntu下clash](#ubuntu下clash)
+Table of Contents
+=================
 
-- [windows cmd下代理](#windows cmd下代理)
-
-- [ clash开热点给其他设备科学上网](#clash开热点给其他设备科学上网)
-
-- [oculus quest2 头显科学上网](#oculus quest2 头显科学上网)
+* [ubuntu下clash](#ubuntu下clash)
+  * [1、搭配fastlink](#1搭配fastlink)
+  * [2、所需文件](#2所需文件)
+  * [3、执行命令](#3执行命令)
+  * [4、配置proxy](#4配置proxy)
+  * [5、浏览器proxy设置使用系统代理](#5浏览器proxy设置使用系统代理)
+  * [6、终端测试](#6终端测试)
+* [windows cmd下代理](#windows-cmd下代理)
+* [clash开热点给其他设备科学上网](#clash开热点给其他设备科学上网)
+* [oculus quest2 头显科学上网](#oculus-quest2-头显科学上网)
 
 
 # ubuntu下clash
