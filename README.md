@@ -47,7 +47,7 @@ sudo ./clash -d .
 ## 4、配置proxy
 
 ```
-export http_proxy=http://127.0.0.1:7890
+export http_proxy=http://127.0.0.1:7890  # 若有一台主机已经开了clash(不管win还是linux只要7890端口能telnet通)，直接将ip改为另一台主机的就行，不用在linux上装这个。
 export https_proxy=https://127.0.0.1:7890
 export socks_proxy=socks://127.0.0.1:7891
 ```
